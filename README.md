@@ -12,7 +12,7 @@
 </div>
 <br>
 <h2>Demo Preview</h2><br>
-<img src="./assets/preview-gif-1.gif">
-<img src="./assets/preview-gif-2.gif">
+<img src="./images/preview-gif-1.gif" alt="preview-gif1">
+<img src="./images/preview-gif-2.gif" alt="preview-gif1">
 <br>
-<p>Live Demo: https://businesscardlb.netlify.app/</p>
+<p>Live Demo: https://landingpagelbn.netlify.app/</p>
